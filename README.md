@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Nice to meet You, 
+## The name's Aldrin Jenson and I like warm hugs.
+## Do you too?
+
 <!--
 **aldrinjenson/aldrinjenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
