@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-## Nice to meet You, 
-## The name's Aldrin Jenson and I like warm hugs.
-## Do you too?
+## I am Aldrin Jenson
+
 
 <!--
+
 **aldrinjenson/aldrinjenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on React Native
+- 🌱 I’m currently learning Typescript!
+- 👯 I’m looking to collaborate on any intersting projects
+- 🤔 I’m looking for help with adding widgets using React- Native
+- 💬 Ask me about React and Redux
+- 📫 How to reach me: [@ninja_Aldrin](https://twitter.com/ninja_Aldrin/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: React is better than Angular :)
