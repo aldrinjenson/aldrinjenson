@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any intersting projects
 - 💬 Ask me about React and Redux
 - 📫 How to reach me: [@ninja_Aldrin](https://twitter.com/ninja_Aldrin/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: React is better than Angular :)
