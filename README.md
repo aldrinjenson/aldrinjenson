@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ninja_aldrin" target="blank"><img src="https://img.shields.io/twitter/follow/ninja_aldrin?logo=twitter&style=for-the-badge" alt="ninja_aldrin" /></a> </p>
 
-- 🔭 I’m currently working on **A platform for making online classes Moore efficient**
+- 🔭 I’m currently working on **A platform for making online classes much more efficient**
 
 - 🌱 I’m currently learning **WebRtc, Docker**
 
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Watching Phineas & Ferb shows is a great way to chill**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
