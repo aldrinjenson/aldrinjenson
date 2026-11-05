@@ -1,15 +1,18 @@
+### Hi, I'm Aldrin 👋
 
-<h1 align="center">Hi there 👋 I'm Aldrin Jenson</h1>
-<h3 align="center">Software Engineer | Generalist Programmer </h3>
+I'm an engineer in New York building AI agents. I'm a Forward Deployed Engineer at [Athena Intelligence](https://athenaintel.com/), where we build agents that do real analyst work inside large companies. I joined when it was four people. I work on the product and then make it work on-site with customers in New York and London.
 
+Before that I was on the GenAI team at [Thoughtworks](https://www.thoughtworks.com) and did AI work for [Voicenotes](https://voicenotes.com/) (YC).
 
-<p align="center">
-I build cool stuff✨
-</p>
+**Some things I've built**
 
-<p align="center">
-  <a href="https://linkedin.com/in/aldrinjenson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aldrinjenson" height="30" width="40" /></a>  
-  <a href="https://twitter.com/ninja_aldrin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ninja_aldrin" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/aldrinjenson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="aldrinjenson" height="30" width="40" /></a>
-  <a href="https://medium.com/@aldrinjenson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aldrinjenson" height="30" width="40" /></a>
-</p>
+- [**obsidian-camera**](https://github.com/aldrinjenson/obsidian-camera): camera plugin for Obsidian, about 14.5k downloads
+- [**Indic Subtitler**](https://github.com/kurianbenoy/Indic-Subtitler): open-source subtitles in 12+ Indian languages. I built the frontend. Top 10 at Hasgeek's Open Source AI Hackathon.
+- [**sundari**](https://github.com/aldrinjenson/sundari): a real-time Malayalam-speaking voice agent that can see your screen
+- [**pendant-sync**](https://github.com/aldrinjenson/pendant-sync): keeps a Limitless Pendant working with no cloud. Bluetooth sync, local Whisper, Markdown notes. ([write-up](https://blog.aldrinjenson.com/posts/limitless-pendant-second-life/))
+- [**nycguessr**](https://github.com/aldrinjenson/nycguessr): a GeoGuessr-style game built on 960 live NYC traffic cameras ([play](https://nycguessr.vercel.app))
+- [**street-view-to-video**](https://github.com/aldrinjenson/street-view-to-video): turns Google Street View images along a route into a video
+
+I write about what I build, and some other things, at **[blog.aldrinjenson.com](https://blog.aldrinjenson.com)**. Short notes go on [til.aldrinjenson.com](https://til.aldrinjenson.com).
+
+[LinkedIn](https://www.linkedin.com/in/aldrinjenson/) · [X](https://x.com/aldrinjenson) · [Blog](https://blog.aldrinjenson.com)
